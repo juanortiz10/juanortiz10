@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/juan_deltoro2" target="blank"><img src="https://img.shields.io/twitter/follow/juan_deltoro2?logo=twitter&style=for-the-badge" alt="juan_deltoro2" /></a> </p>
 
-- 🔭 I’m currently working on [X-Team](https://x-team.com/)
+- 🔭  I’m currently working on [X-Team](https://x-team.com/)
 
-- 🤝 Currently creating content at YouTube [Juan Jose Ortiz](https://www.youtube.com/c/JuanJoseOrtiz)
+- 🤝  Currently creating content at YouTube [Juan Jose Ortiz](https://www.youtube.com/c/JuanJoseOrtiz)
 
-- 💬 Ask me about **Javascript, React, Redux, React Native**
-
-- 📫 How to reach me **https://twitter.com/juan_deltoro2**
+- 💬  Ask me about **Javascript, React, Redux, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
